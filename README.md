@@ -1,4 +1,5 @@
 AtliQo: Telecom KPI Comparison Pre and Post 5G Launch
+
 Overview
 This project focuses on analyzing the impact of AtliQo's 5G launch in May 2022 on key performance indicators (KPIs). As a leading telecom provider in India, AtliQo observed a decline in active users and revenue growth post-5G launch. The objective is to compare KPIs from pre- and post-5G periods, providing actionable insights for executive management to recover user engagement and optimize internet plans.
 
